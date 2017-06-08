@@ -1,0 +1,56 @@
+body {
+  background: rgb(244, 248, 249);
+  font-size: 30px;
+}
+
+.tweet {
+  background: rgb(255, 255, 255);
+  border: solid 2px rgb(225, 232, 237);
+  color: rgb(0, 0, 0);
+  font-family: Helvetica;
+  border-radius: 8px;
+  padding: 30px;
+  position: relative;
+}
+.profile-pic {
+  margin-right: 20px;
+  float: left;
+}
+.username {
+  font-weight: bold;
+}
+.username img {
+  vertical-align: middle;
+}
+.twitter-handle {
+  color: rgb(104, 109, 129);
+}
+.follow-button {
+  border: solid 2px rgb(85, 172, 238);
+  border-radius: 8px;
+  color: rgb(85, 172, 238);
+  background-color: white;
+  padding:12px 25px;
+  font-size: 0.9em;
+  font-weight: bold;
+  float:right;
+  }
+.follow-button img {
+  vertical-align: middle;
+}
+.tweet-content {
+  margin: 30px 0px 20px;
+}
+.date {
+  color: rgb(101, 116, 127);
+}
+.tweet-footer {
+  color: rgb(105, 120, 130);
+  margin-top: 1em;
+}
+.left-padding {
+  margin-left: 30px;
+}
+.float-right {
+  float: right;
+}
